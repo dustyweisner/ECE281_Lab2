@@ -7,22 +7,22 @@ Twos Compliment Lab
 __*Truth Table*__
 
 
-|A|B|C|F|W|
-|:--:|:--:|:--:|:--:|:--:|
-|0|0|0|0|0|
-|0|0|1|0|0|
-|0|1|0|0|0|
-|0|1|1|1|1|
-|1|0|0|1|1|
-|1|0|1|1|1|
-|1|1|0|0|0|
-|1|1|1|1|1|
+|A|B|C|X|Y|Z|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|0|0|0|0|0|0|
+|0|0|1|1|1|1|
+|0|1|0|1|1|0|
+|0|1|1|1|0|1|
+|1|0|0|1|0|0|
+|1|0|1|0|1|1|
+|1|1|0|0|1|0|
+|1|1|1|0|0|1|
 
 
 __*Waveform*__
 
 
-![](https://github.com/dustyweisner/ECE281_CE1/blob/master/waveform.GIF?raw=true)
+![](https://github.com/dustyweisner/ECE281_Lab1/blob/master/README.md?raw=true)
 
 
 #####__*Analysis*__
