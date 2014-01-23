@@ -43,4 +43,4 @@ __*Waveform*__
 
 
 ######-The waveform (W) created by the .vhdl file is exactly the same as the outputs (X, Y, Z) in the truth table
-######-Every 10 ns, the new outputs(0 or 1) in the waveform for all three outputs is exhibited
+######-Every 100 ns, the new outputs(0 or 1) in the waveform for all three outputs is exhibited
