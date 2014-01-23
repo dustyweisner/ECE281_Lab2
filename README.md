@@ -19,6 +19,20 @@ __*Truth Table*__
 |1|1|1|0|0|1|
 
 
+__*SOP equations*__
+
+
+X = (A_NOT)(B) + (A_NOT)(C) + (A)(B_NOT)(C_NOT)  
+Y = (B)(C_NOT) + (B_NOT)(C)  
+Z = C
+
+
+__*Schematic*__
+
+
+![](https://github.com/dustyweisner/ECE281_Lab1/blob/master/logicdesign.jpg?raw=true)
+
+
 __*Waveform*__
 
 
