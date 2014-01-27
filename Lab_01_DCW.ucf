@@ -1,0 +1,32 @@
+## ==== Slide Switches (SW) ====
+###################### 3-bit #########################
+##SWITCH inputs
+#NET "A" LOC = "K18"; # Type = INPUT, Sch name = SW2
+#NET "B" LOC = "H18"; # Type = INPUT, Sch name = SW1
+#NET "C" LOC = "G18"; # Type = INPUT, Sch name = SW0
+
+## LED outputs constraints
+#NET "X"  LOC = "J14"; # Sch name = LD0
+#NET "Y"  LOC = "J15"; # Sch name = LD1
+#NET "Z"  LOC = "K15"; # Sch name = LD2
+
+################### 8-bit ##########################
+#input
+NET "A<0>" LOC = "G18"; # Type = INPUT, Sch name = SW0
+NET "A<1>" LOC = "H18"; # Type = INPUT, Sch name = SW1
+NET "A<2>" LOC = "K18"; # Type = INPUT, Sch name = SW2
+NET "A<3>" LOC = "K17"; # Type = INPUT, Sch name = SW3
+NET "A<4>" LOC = "L14"; # Type = INPUT, Sch name = SW4
+NET "A<5>" LOC = "L13"; # Type = INPUT, Sch name = SW5
+NET "A<6>" LOC = "N17"; # Type = INPUT, Sch name = SW6
+NET "A<7>" LOC = "R17"; # Type = INPUT, Sch name = SW7
+
+#output
+NET "B<0>"  LOC = "J14"; # Sch name = LD0
+NET "B<1>"  LOC = "J15"; # Sch name = LD1
+NET "B<2>"  LOC = "K15"; # Sch name = LD2
+NET "B<3>"  LOC = "K14"; # Sch name = LD3
+NET "B<4>"  LOC = "E17"; # Sch name = LD4
+NET "B<5>"  LOC = "P15"; # Sch name = LD5
+NET "B<6>"  LOC = "F4";  # Sch name = LD6
+NET "B<7>"  LOC = "R4";  # Sch name = LD7
