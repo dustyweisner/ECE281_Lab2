@@ -53,6 +53,10 @@ __*Waveform*__
 ######My 8-bit demo worked and was checked by Dr. Neebel
 
 
+#####__*Debugging*__
+######I knew as soon as my bits were working backwards that my .ucf file had the switches backwards. So I changed them.
+
+
 #####__*Test Cases*__
 |CASE #| SWITCH = LED| TRUE/FALSE |
 |:--|:--:|:--:|
