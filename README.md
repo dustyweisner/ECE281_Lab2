@@ -9,26 +9,33 @@ __*Truth Table*__
 
 |I0|I1|EN|Y0|Y1|Y2|Y3|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|0|0|0|0|0|0|
-|0|0|1|1|1|1|
-|0|1|0|1|1|0|
-|0|1|1|1|0|1|
-|1|0|0|1|0|0|
-|1|0|1|0|1|1|
-|1|1|0|0|1|0|
-|1|1|1|0|0|1|
+|0|0|0|0|0|0|0|
+|0|0|1|1|0|0|0|
+|0|1|0|0|0|0|0|
+|0|1|1|0|0|1|0|
+|1|0|0|0|0|0|0|
+|1|0|1|0|1|0|0|
+|1|1|0|0|0|0|0|
+|1|1|1|0|0|0|1|
 
 
 
 __*Behavioral Waveform*__
 
 
-![](C:\Users\C16Dustin.Weisner\Documents\Xilinx\Decoder_Behavioral\BehavioralPic.GIF?raw=true)
+![](https://github.com/dustyweisner/ECE281_CE2/blob/master/Documents/Xilinx/Decoder_Behavioral/BehavioralPic.GIF?raw=true)
+
+
+__*Structural Waveform*__
+
+
+![](https://github.com/dustyweisner/ECE281_CE2/blob/master/Documents/Xilinx/CE2/Capture.GIF?raw=true)
 
 
 #####__*Analysis*__
 
 
-######-The waveform (W) created by the .vhdl file is exactly the same as the outputs (X, Y, Z) in the truth table
-######-Every 100 ns, the new outputs(0 or 1) in the waveform for all three outputs is exhibited
-######-The 8-bit demo was checked using an online conversion and with the twos compliment TEST CASES (at bottom)
+######-The behavioral waveform created by the .vhdl file is exactly the same as the outputs for the structural.
+######-Both waveforms are correct because they follow the truth table precisely.
+######-Every 100 ns, the new outputs (Y0, Y1, Y2, Y3) in the waveform for all three outputs is exhibited
+
