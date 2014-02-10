@@ -1,23 +1,7 @@
 ECE281_CE2
 ==========
 
-###__*CE2*__
-
-
-__*.VHD files - Quick Links*__
-
-
-[Behavioral.vhd](https://github.com/dustyweisner/ECE281_CE2/blob/master/Documents/Xilinx/CE2/Behavioral.vhd)  
-[CE2.vhd (Testbench)](https://github.com/dustyweisner/ECE281_CE2/blob/master/Documents/Xilinx/CE2/CE2.vhd)  
-[CE2_Behavioral.vhd](https://github.com/dustyweisner/ECE281_CE2/blob/master/Documents/Xilinx/CE2/CE2_Behavioral.vhd)  
-[Decoder_Behavioral_Testbench.vhd](https://github.com/dustyweisner/ECE281_CE2/blob/master/Documents/Xilinx/CE2/Decoder_Behavioral_Testbench.vhd)  
-[Decoder_Structural_Testbench.vhd](https://github.com/dustyweisner/ECE281_CE2/blob/master/Documents/Xilinx/CE2/Decoder_Structural_Testbench.vhd)  
-[Inverter.vhd](https://github.com/dustyweisner/ECE281_CE2/blob/master/Documents/Xilinx/CE2/Inverter.vhd)  
-[and3.vhd](https://github.com/dustyweisner/ECE281_CE2/blob/master/Documents/Xilinx/CE2/and3.vhd)  
-[CE2.vhd (Behavioral)](https://github.com/dustyweisner/ECE281_CE2/blob/master/Documents/Xilinx/Decoder_Behavioral/CE2.vhd)  
-
-
-__*Truth Table*__
+###__*Lab 2*__
 
 
 |I0|I1|EN|Y0|Y1|Y2|Y3|
