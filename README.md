@@ -26,6 +26,12 @@ __*One-bit Full Adder Behavioral Waveform*__
 ![](https://github.com/dustyweisner/ECE281_Lab2/blob/master/WaveformLab2.GIF?raw=true)
 
 
+__*Schematic*__
+
+
+![](https://github.com/dustyweisner/ECE281_Lab2/blob/master/Schematic.jpg?raw=true)
+
+
 
 #####__*Analysis*__
 
