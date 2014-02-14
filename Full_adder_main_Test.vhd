@@ -1,22 +1,22 @@
 --------------------------------------------------------------------------------
--- Company: 
--- Engineer:
+-- Company: USAFA
+-- Engineer:Dusty Weisner
 --
 -- Create Date:   14:43:02 02/13/2014
--- Design Name:   
+-- Design Name:   Lab2
 -- Module Name:   C:/Users/C16Dustin.Weisner/Documents/Xilinx/Lab2/Full_adder_main_Test.vhd
 -- Project Name:  Lab2
--- Target Device:  
--- Tool versions:  
--- Description:   
+-- Target Device:  Nexys
+-- Tool versions:  N/A
+-- Description:   N/A
 -- 
 -- VHDL Test Bench Created by ISE for module: DCW_add_sub
 -- 
--- Dependencies:
+-- Dependencies:N/A
 -- 
--- Revision:
+-- Revision:N/A
 -- Revision 0.01 - File Created
--- Additional Comments:
+-- Additional Comments: N/A
 --
 -- Notes: 
 -- This testbench has been automatically generated using types std_logic and
