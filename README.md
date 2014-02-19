@@ -32,5 +32,16 @@ __*One-bit Full Adder Behavioral Waveform*__
 ![](https://github.com/dustyweisner/ECE281_Lab2/blob/master/WaveformLab2.GIF?raw=true)
 
 
-The behavioral waveform created by the .vhdl file is exactly the same as the outputs for the Truth Table. Every 100 ns, the new outputs (Sum, Cout) in the waveform for all three inputs is exhibited. After testing the one-bit adder, a new vhdl file was created to make a 4-bit adder using four of those one-bit adders and using the input of a button  press to convert the second four-bit number to its twos compliment ([DCW_add_sub.vhd](https://github.com/dustyweisner/ECE281_Lab2/blob/master/DCW_add_sub.vhd)).
+The behavioral waveform created by the .vhdl file is exactly the same as the outputs for the Truth Table. Every 100 ns, the new outputs (Sum, Cout) in the waveform for all three inputs is exhibited. After testing the one-bit adder, a new vhdl file was created to make a 4-bit adder using four of those one-bit adders and using the input of a button  press to convert the second four-bit number to its twos compliment ([DCW_add_sub.vhd](https://github.com/dustyweisner/ECE281_Lab2/blob/master/DCW_add_sub.vhd)), as shown in the final circuit schematic below:
+
+
+
+In the circuit above, each "v" is the full adder designed in the beginning of the lab. Using the one bit adders, I was able to connect the Carryout of each bit to the Carryin of the next bit. A for loop was used to test the four-bit adder, and the following waveform was produced:
+
+__*Four-bit Full Adder Waveform*__
+
+
+![](https://github.com/dustyweisner/ECE281_Lab2/blob/master/4bitWaveformLab2.GIF?raw=true)
+
+These outputs matched the rules of the addition of two 4-bit binary numbers, so I continued to implement this design
 
